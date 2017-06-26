@@ -1,0 +1,11 @@
+{
+  "name": "teerasej-calculator",
+  "version": "1.0.2",
+  "description": "An example for workshop in Node.js training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teerasej Jiraphatchandej",
+  "license": "ISC"
+}
